@@ -66,3 +66,4 @@ if __name__=="__main__":
     pattern = "abaabcaba" 
     index = KMP().PatternMatch(pattern, s)
     print(index)
+    print("hello github, i'm coming!")
