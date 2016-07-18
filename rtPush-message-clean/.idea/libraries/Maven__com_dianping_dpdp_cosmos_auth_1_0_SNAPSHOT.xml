@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.dianping.dpdp:cosmos-auth:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dianping/dpdp/cosmos-auth/1.0-SNAPSHOT/cosmos-auth-1.0-20160108.100534-8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dianping/dpdp/cosmos-auth/1.0-SNAPSHOT/cosmos-auth-1.0-20160108.100534-8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dianping/dpdp/cosmos-auth/1.0-SNAPSHOT/cosmos-auth-1.0-20160108.100534-8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

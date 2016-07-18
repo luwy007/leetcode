@@ -1,0 +1,18 @@
+JsonInfo.txt
+
+JSONObject obj = new JSONObject();
+obj.put("dpId", dpId);
+obj.put("lat", lat);
+obj.put("lng", lng);
+obj.put("client", "DIANPING");
+obj.put("shopId", null);
+obj.put("action", "LOC");
+obj.put("actionDesc", null);
+
+example : {"userId":"1",
+		   "lat":"1.0",
+		   "lng":"1.0",
+		   "client":"DIANPING",
+		   "shopId":null,
+		   "action":"LOC",
+		   "actionDesc":null}
